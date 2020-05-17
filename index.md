@@ -64,14 +64,14 @@ The configuration of Kurdish in `Polyglossia` includes **Sorani** and **Kurmanji
 
 The scripts for Sorani and Kurmanji are by default `arabic` and `latin`. In addition to the default `\today`, `\ontoday` can be used to take the Izafa structure of Kurdish into account. For instance, the first command produces *15 Gulan 2020* (May 15, 2020) while the latter takes the morphological change into account by producing *15ê Gulanê 2020* (literally meaning, 15 of May of 2020). This option is available for both dialects in the Latin script.
 
-For more information on the configuration of Kurdish in `Polyglossia`, see [this]().
+For more information on the configuration of Kurdish in `Polyglossia`, see [this](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/KurdishXeLaTeX/Support/master/docs/Kurdish_XeLaTeX_English.pdf){:target="_blank"}.
 
 ## Documenation
 
 You can find simple documentations on XeLaTeX typesetting in various dialects and scripts in the following:
 
-- Sorani dialect in Persian-Arabic script: [XeLaTeX بۆ نووسینی کوردی]()
-- Sorani dialect in Latin script: [XeLaTeX bo Nûsînî Kurdî]()
+- Sorani dialect in Persian-Arabic script: [XeLaTeX بۆ نووسینی کوردی](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/KurdishXeLaTeX/Support/master/docs/Kurdish_XeLaTeX_Sorani_Arabic.pdf){:target="_blank"}
+- Sorani dialect in Latin script: [XeLaTeX bo Nûsînî Kurdî](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/KurdishXeLaTeX/Support/master/docs/Kurdish_XeLaTeX_Sorani_Latin.pdf){:target="_blank"}
 - Kurmanji dialect in Latin script: [XeLaTeX ji bo nivîsandina Kurdî]()
 - Kurmanji dialect in Persian-Arabic script: [XeLaTeX ژ بۆ نڤیساندنا کوردی]()
 
