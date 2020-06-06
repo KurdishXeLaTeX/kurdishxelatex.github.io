@@ -84,11 +84,11 @@ Our main focus within this project is to create content in Kurdish for the Kurdi
 
 ### Contributing
 
-If you are using the XeLaTeX typesetting (or you would like to) and also have an interest in the Kurdish language, please consider joining our group. You can also raise your issues or suggest ideas to improve our content. 
+If you are using the XeLaTeX typesetting (or you would like to) and also have an interest in the Kurdish language, please consider joining our group at [https://groups.google.com/forum/#!forum/kurdishxelatexusersgroup](https://groups.google.com/forum/#!forum/kurdishxelatexusersgroup){:target="_blank"}. You can also raise your issues or suggest ideas to improve our content. 
 
 <!-- Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing). -->
 
-#### Thank you to the contributors of the Kurdish XeLaTeX Users Group!
+<!-- #### Thank you to the contributors of the Kurdish XeLaTeX Users Group! -->
 
 <!-- <ul class="list-style-none">
 {% for contributor in site.github.contributors %}
