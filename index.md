@@ -64,7 +64,7 @@ The configuration of Kurdish in `Polyglossia` includes **Sorani** and **Kurmanji
 
 The scripts for Sorani and Kurmanji are by default `arabic` and `latin`. In addition to the default `\today`, `\ontoday` can be used to take the Izafa structure of Kurdish into account. For instance, the first command produces *15 Gulan 2020* (May 15, 2020) while the latter takes the morphological change into account by producing *15ê Gulanê 2020* (literally meaning, 15 of May of 2020). This option is available for both dialects in the Latin script.
 
-For more information on the configuration of Kurdish in `Polyglossia`, see [this](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/KurdishXeLaTeX/Support/master/docs/Kurdish_XeLaTeX_English.pdf){:target="_blank"}.
+For more information on the configuration of Kurdish in `Polyglossia`, see [this](https://kurdishxelatex.github.io/assets/Kurdish_XeLaTeX_English.pdf){:target="_blank"}.
 
 ## Documenation
 
