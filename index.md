@@ -80,9 +80,12 @@ You can find simple documentations on XeLaTeX typesetting in various dialects an
 
 [Download the book freely here!](https://raw.githubusercontent.com/KurdishXeLaTeX/kurdishxelatex.github.io/master/assets/Learn_Latex_Kurdish-Hatwan_Khalid-V01-2022.pdf){:target="_blank"}.
 
-
-![Hatwan Khalid Learn LaTeX Kurdish book cover](https://raw.githubusercontent.com/KurdishXeLaTeX/kurdishxelatex.github.io/master/assets/Learn_Latex_Kurdish-Hatwan_Khalid-V01-2022_cover.png)
-
+<a href="https://raw.githubusercontent.com/KurdishXeLaTeX/kurdishxelatex.github.io/master/assets/Learn_Latex_Kurdish-Hatwan_Khalid-V01-2022.pdf" target="_blank">
+  <img src="https://raw.githubusercontent.com/KurdishXeLaTeX/kurdishxelatex.github.io/master/assets/Learn_Latex_Kurdish-Hatwan_Khalid-V01-2022_cover.png" 
+       width="400" 
+       height="500"
+       alt= "Hatwan Khalid Learn LaTeX Kurdish book cover"/>
+</a>
 ---
 
 ## About the project
