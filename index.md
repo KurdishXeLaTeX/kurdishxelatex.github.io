@@ -75,6 +75,14 @@ You can find simple documentations on XeLaTeX typesetting in various dialects an
 - Kurmanji dialect in Latin script: [XeLaTeX ji bo nivîsandina Kurdî]({{site.url}}/assets/Kurdish_XeLaTeX_Kurmanji_Latin.pdf){:target="_blank"}
 - Kurmanji dialect in Persian-Arabic script: [XeLaTeX ژ بۆ نڤیساندنا کوردی]({{site.url}}/assets/Kurdish_XeLaTeX_Kurmanji_Arabic.pdf){:target="_blank"}
 
+### Good news! ☺️🎉
+**Hatwan Khalid**, a physics student at Koya University, Kurdistan, has prepared a booklet about LaTeX in Kurdish. His time and volunteering is much appreciated and beneficial to the Kurdish scientific communities. Well done, Hatwan! 
+
+Download the book freely at [https://kurdishxelatex.github.io/assets/Kurdish_XeLaTeX_English.pdf](https://kurdishxelatex.github.io/assets/Learn_Latex_Kurdish-Hatwan_Khalid-V01-2022.pdf){:target="_blank"}.
+
+
+![Hatwan Khalid Learn LaTeX Kurdish book cover](https://kurdishxelatex.github.io/assets/Learn_Latex_Kurdish-Hatwan_Khalid-V01-2022_cover.png)
+
 ---
 
 ## About the project
@@ -98,3 +106,14 @@ If you are using the XeLaTeX typesetting (or you would like to) and also have an
 {% endfor %}
 </ul> -->
 
+
+
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('sinaahmadi', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#00b9fe',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
