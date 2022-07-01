@@ -78,10 +78,10 @@ You can find simple documentations on XeLaTeX typesetting in various dialects an
 ### Good news! ☺️🎉
 **Hatwan Khalid**, a physics student at Koya University, Kurdistan, has prepared a booklet about LaTeX in Kurdish. His time and volunteering is much appreciated and beneficial to the Kurdish scientific communities. Well done, Hatwan! 
 
-Download the book freely at [https://kurdishxelatex.github.io/assets/Kurdish_XeLaTeX_English.pdf](https://kurdishxelatex.github.io/assets/Learn_Latex_Kurdish-Hatwan_Khalid-V01-2022.pdf){:target="_blank"}.
+[Download the book freely here!](https://raw.githubusercontent.com/KurdishXeLaTeX/kurdishxelatex.github.io/master/assets/Learn_Latex_Kurdish-Hatwan_Khalid-V01-2022.pdf){:target="_blank"}.
 
 
-![Hatwan Khalid Learn LaTeX Kurdish book cover](https://kurdishxelatex.github.io/assets/Learn_Latex_Kurdish-Hatwan_Khalid-V01-2022_cover.png)
+![Hatwan Khalid Learn LaTeX Kurdish book cover](https://raw.githubusercontent.com/KurdishXeLaTeX/kurdishxelatex.github.io/master/assets/Learn_Latex_Kurdish-Hatwan_Khalid-V01-2022_cover.png)
 
 ---
 
